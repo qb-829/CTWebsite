@@ -12,7 +12,7 @@ export default function Home() {
 // -- will need authorization code
 // -- need STATE MGMT as to whether user is logged in or not
 // ---- can use REDUX/REDUX TOOLKIT TO MANAGE STATES
-// -- API CALL to database containin user information
+// -- API CALL to database containing user information
 
 // There will also be a signup feature
 
